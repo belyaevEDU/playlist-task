@@ -1,4 +1,4 @@
-26
+25
 Artists: Yung Lean
 Song: Red Bottom Sky
 Duration: 05:03
@@ -62,10 +62,6 @@ Duration: 03:32
 Artists: The Killers
 Song: When You Were Young
 Duration: 03:40
-
-Artists: Yubin
-Song: 都市女子
-Duration: 03:16
 
 Artists: Björk
 Song: Venus as a Boy
