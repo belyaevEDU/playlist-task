@@ -2,7 +2,6 @@ def convertToSeconds(string):
     splt = string.split(':')
     return int(splt[0]) * 60 + int(splt[1])
 
-
 cnt = 0
 with open('26(1).txt') as file:
     n = int(file.readline())
