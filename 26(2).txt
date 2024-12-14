@@ -1,0 +1,160 @@
+40
+Artists: Black Sabbath
+Song: War Pigs
+Duration: 07:54
+
+Artists: Black Sabbath
+Song: Paranoid
+Duration: 02:48
+
+Artists: Black Sabbath
+Song: Electric Funeral
+Duration: 04:49
+
+Artists: Tim Buckley
+Song: Buzzin' Fly
+Duration: 06:04
+
+Artists: Animal Collective
+Song: Winters Love
+Duration: 04:55
+
+Artists: Animal Collective
+Song: Sweet Road
+Duration: 01:15
+
+Artists: Charli xcx
+Song: forever
+Duration: 04:03
+
+Artists: Charli xcx
+Song: claws
+Duration: 02:29
+
+Artists: Charli xcx
+Song: detonate
+Duration: 03:39
+
+Artists: Mac DeMarco
+Song: Baby's Wearing Blue Jeans
+Duration: 03:33
+
+Artists: HOMESHAKE
+Song: He’s Heating Up!
+Duration: 02:55
+
+Artists: Wire
+Song: Reuters - 2006 Remastered Version
+Duration: 03:03
+
+Artists: Wire
+Song: Pink Flag - 2006 Remastered Version
+Duration: 03:45
+
+Artists: Nirvana
+Song: About A Girl
+Duration: 02:46
+
+Artists: Nirvana
+Song: Been A Son - Blew EP Version
+Duration: 02:20
+
+Artists: Green Day
+Song: Basket Case
+Duration: 03:01
+
+Artists: My Chemical Romance
+Song: Helena
+Duration: 03:24
+
+Artists: My Chemical Romance
+Song: You Know What They Do to Guys Like Us in Prison
+Duration: 02:53
+
+Artists: My Chemical Romance
+Song: I'm Not Okay (I Promise)
+Duration: 03:06
+
+Artists: My Chemical Romance
+Song: Thank You for the Venom
+Duration: 03:41
+
+Artists: Weezer
+Song: My Name Is Jonas
+Duration: 03:24
+
+Artists: Weezer
+Song: The World Has Turned And Left Me Here
+Duration: 04:19
+
+Artists: Weezer
+Song: Undone - The Sweater Song
+Duration: 05:05
+
+Artists: The Verve
+Song: Star Sail - 2016 Remastered
+Duration: 04:00
+
+Artists: Ride
+Song: Seagull - 2001 Remaster
+Duration: 06:08
+
+Artists: Ride
+Song: Kaleidoscope - 2001 Remaster
+Duration: 03:01
+
+Artists: 100 gecs, Dylan Brady, Laura Les
+Song: 800db cloud
+Duration: 02:20
+
+Artists: Metallica
+Song: Disposable Heroes
+Duration: 08:16
+
+Artists: Green Day
+Song: Longview
+Duration: 03:53
+
+Artists: The Strokes
+Song: Soma
+Duration: 02:33
+
+Artists: The Strokes
+Song: Someday
+Duration: 03:03
+
+Artists: The Strokes
+Song: Last Nite
+Duration: 03:13
+
+Artists: Dolly Mixture
+Song: Will He Kiss Me Tonight
+Duration: 02:44
+
+Artists: Nirvana
+Song: Molly's Lips - BBC John Peel Session 1990
+Duration: 01:54
+
+Artists: Nirvana
+Song: Been A Son - BBC Mark Goodier Session
+Duration: 01:55
+
+Artists: Nirvana
+Song: Son Of A Gun - BBC John Peel Session 1990
+Duration: 02:48
+
+Artists: Led Zeppelin
+Song: Communication Breakdown - Remaster
+Duration: 02:30
+
+Artists: Megadeth
+Song: Holy Wars...The Punishment Due
+Duration: 06:32
+
+Artists: NEU!
+Song: Hallogallo
+Duration: 10:07
+
+Artists: Beach House
+Song: Myth
+Duration: 04:18
