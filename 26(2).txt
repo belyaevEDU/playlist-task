@@ -1,48 +1,104 @@
-12
-Artists: Half Blue
-Song: Edenite
-Duration: 01:21
+26
+Artists: Yung Lean
+Song: Red Bottom Sky
+Duration: 05:03
 
-Artists: Boy Illum
-Song: old love
-Duration: 02:40
+Artists: Tierra Whack
+Song: Flea Market
+Duration: 01:00
 
-Artists: Notation, Howiewonder
-Song: Astral
-Duration: 02:14
+Artists: Taylor Swift
+Song: Bejeweled
+Duration: 03:14
 
-Artists: Vincent Krennerich
-Song: Sommerregen
-Duration: 02:06
+Artists: Lil Ugly Mane
+Song: Uneven Compromise
+Duration: 10:58
 
-Artists: Ben Jammin' Beats
-Song: Light Speed
-Duration: 02:01
+Artists: Lana Del Rey
+Song: Brooklyn Baby
+Duration: 05:51
 
-Artists: Mike Beating, Paxkalito
-Song: Sunsplash
-Duration: 02:02
+Artists: Cities Aviv
+Song: NOT THAT I'M ANYWHERE
+Duration: 02:53
 
-Artists: Rooey
-Song: Little Bluestem
-Duration: 02:19
+Artists: Adeodat Warfield
+Song: Across the Night Sky
+Duration: 02:45
 
-Artists: Phil Tyler
-Song: Keep On
-Duration: 01:56
+Artists: Yung Lean
+Song: Chinese Restaurant
+Duration: 01:16
 
-Artists: LowJaZz, CrazyJaZz
-Song: With A Big Heart
-Duration: 02:40
+Artists: jonatan leandoer96
+Song: Rivers Over Wall Street
+Duration: 03:44
 
-Artists: Aftersonic
-Song: Awake in a Dream
+Artists: Alex G
+Song: Forever
+Duration: 02:29
+
+Artists: Ecco2k
+Song: Peroxide
 Duration: 03:34
 
-Artists: mädmäx, Mayaewk
-Song: Left Alone
-Duration: 01:59
+Artists: jonatan leandoer96
+Song: Machines
+Duration: 03:33
 
-Artists: Modokat
-Song: Silhouette
-Duration: 02:07
+Artists: Mazzy Star
+Song: Blue Light
+Duration: 05:10
+
+Artists: Fleetwood Mac
+Song: Everywhere
+Duration: 03:42
+
+Artists: Calvin Harris, Florence Welch
+Song: Sweet Nothing (feat. Florence Welch)
+Duration: 03:32
+
+Artists: The Killers
+Song: When You Were Young
+Duration: 03:40
+
+Artists: Yubin
+Song: 都市女子
+Duration: 03:16
+
+Artists: Björk
+Song: Venus as a Boy
+Duration: 04:42
+
+Artists: Mitski
+Song: Thursday Girl
+Duration: 03:08
+
+Artists: No Buses
+Song: Untouchable You
+Duration: 03:14
+
+Artists: Your Neighbors
+Song: Sideways
+Duration: 02:35
+
+Artists: Yung Lean
+Song: Put Me in a Spell
+Duration: 02:56
+
+Artists: Cocteau Twins, Harold Budd
+Song: Sea, Swallow Me
+Duration: 03:09
+
+Artists: Sadness
+Song: In the Distant Travels
+Duration: 08:27
+
+Artists: foxtails
+Song: Princess Carolyn
+Duration: 02:04
+
+Artists: Lowertown
+Song: Debris
+Duration: 02:20
